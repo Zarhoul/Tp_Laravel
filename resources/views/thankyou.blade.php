@@ -83,6 +83,9 @@
                 font-size: 1rem;
                 font-weight: bold;
             }
+            div {
+                max-width: 700px;
+            }
         </style>
     </head>
     <body>
@@ -111,3 +114,4 @@
         </script>
     </body>
 </html>
+
