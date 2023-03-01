@@ -94,7 +94,7 @@
                 {{ $data['name'] }}
             </li>
             <li>
-                <label>Eamil :</label>
+                <label>Email :</label>
                 {{ $data['email'] }}
             </li>
             <li>
